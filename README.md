@@ -5,7 +5,7 @@
 
 
 <br/><hr>
-### I'm a Junir FullStack Developer.
+### I'm a Junior FullStack Developer.
 All my life i've been interested in programming and computers in general but i ended studying physiotherapy and mastering cardiorespiratory physiotherapy, for a time it was good but I felt like I was lacking something, so I decided to start a bootcamp in Ironhack and here I am. As the bootcamp goes on I feel more and more enthusiastic about programming and i like both front and backend developing. I hope to get a job and get into the developers world soon.
 
 Technologies:
