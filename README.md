@@ -25,6 +25,7 @@ Technologies:
 <img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
 <img alt='NPM' src='https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white&style=plastic' />
 <img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
+<img alt='Cypress' src='https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e&style=plastic' />
 
 Other utilities:
 <br/>
